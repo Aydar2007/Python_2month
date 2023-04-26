@@ -26,21 +26,8 @@ while OK=="on":
         OK="OFF"
         print("Нет искаемого числа")
 
-# while L < R:
-#     if L<R:
-#         i=()
-#         if x>i:
-#             L=i+1
-#         else:
-#             R=i
-#             Pos=R
-#             ResultOk = True
-#     if ResultOk == True:
-#         print("Элемент найден")
-#         print(Pos)
-#     else:
-#         print("Элемент не найден")
-    
+        
+        
 
 
 
